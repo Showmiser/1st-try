@@ -2,3 +2,13 @@
 first Repository 
 This is my first GitHub repository!
 This change is on the practice branch!
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to My GitHub Page</title>
+  </head>
+  <body>
+    <h1>Hello, GitHub Pages!</h1>
+    <p>This is my very first website hosted with GitHub Pages.</p>
+  </body>
+</html>
